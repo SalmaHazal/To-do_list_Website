@@ -1,8 +1,12 @@
 # ToDoMe ✅
 
+Welcome to ToDoMe! Your personal task manager designed to help you stay organized and productive.
 ![ToDoMe Banner](https://my-portfolio-alpha-woad.vercel.app/assets/images/to%20do.png)
 
-Welcome to ToDoMe! Your personal task manager designed to help you stay organized and productive.
+<img align="center" src="[path/to/your/image.png](https://my-portfolio-alpha-woad.vercel.app/assets/images/to%20do.png)" alt="Alt Text" width="300">
+
+
+
 
 ## Introduction
 
