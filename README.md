@@ -1,18 +1,17 @@
 # ToDoMe ✅
 
 Welcome to ToDoMe! Your personal task manager designed to help you stay organized and productive.
-![ToDoMe Banner](https://my-portfolio-alpha-woad.vercel.app/assets/images/to%20do.png)
-
-<img align="right" src="https://my-portfolio-alpha-woad.vercel.app/assets/images/to%20do.png" alt="Alt Text" width="600">
-
-
-
 
 ## Introduction
 
+<img align="right" src="https://my-portfolio-alpha-woad.vercel.app/assets/images/to%20do.png" alt="Alt Text" width="600">
+
 ToDoMe is a minimalist and intuitive to-do list website that simplifies task management. With its clean interface and user-friendly features, ToDoMe empowers you to prioritize tasks, set deadlines, and track your progress effortlessly.
 
-
+<br>
+<br>
+<br>
+<br>
 ## Technologies Used
 
 ToDoMe is built using modern web technologies, including:
